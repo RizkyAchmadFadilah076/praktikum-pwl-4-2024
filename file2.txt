@@ -1,4 +1,0 @@
-ubah isi file 2
-yang isinya adalah seorang kapiten yang sedang mencari ikan di laut
-ini adalah isi file 2 diubah pertama dicabang1
-penambahan di cabang1
