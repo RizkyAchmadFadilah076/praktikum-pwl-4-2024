@@ -1,1 +1,2 @@
 ini adalah isi file 2 diubah pertama dicabang1
+penambahan di cabang1
