@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ubah isi file 3
 fi file 3 isinya adlaha ngarang untuk mengisi peruamahan hehe
+=======
+ini adalah isi file 3 diubah pertama di cabang1
+penambahan file di cabang1
+>>>>>>> cabang1
